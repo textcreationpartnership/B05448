@@ -1,0 +1,143 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proclamation, against conventicles</title>
+            <author>Scotland. Sovereign (1660-1685 : Charles II)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1673</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05448</idno>
+            <idno type="STC">Wing S1582</idno>
+            <idno type="STC">ESTC R183322</idno>
+            <idno type="EEBO-CITATION">52615070</idno>
+            <idno type="OCLC">ocm 52615070</idno>
+            <idno type="VID">176098</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05448)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176098)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2762:41)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proclamation, against conventicles</title>
+                  <author>Scotland. Sovereign (1660-1685 : Charles II)</author>
+                  <author>Scotland. Privy Council.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the heir of Andrew Anderson ...,</publisher>
+                  <pubPlace>Edinburgh, :</pubPlace>
+                  <date>Anno Dom. 1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title vignette: Royal seal (top half cropped).</note>
+                  <note>Caption title.</note>
+                  <note>Initial letter.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dissenters, Religious --  Legal status, laws, etc. --  Scotland --  Early works to 1800.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="colophon">
+            <pb facs="tcp:176098:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 16 -->
+            <head>A PROCLAMATION, Againſt Conventicles.</head>
+            <opener>
+               <signed>
+                  <hi>
+                     <seg rend="decorInit">C</seg>HARLES,</hi> by the grace of GOD King of great <hi>Britain, France</hi> and <hi>Ireland,</hi> defender of the Faith,</signed>
+               <salute>To  <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>  Macers, or Meſſengers at armes, our Sheriffs in that part, conjunctly and ſeverallie, ſpecially conſtitute Greiting,</salute>
+            </opener>
+            <p>Foraſmuch as by ſeverall Laws and Acts of Parliament, and ſpecial<g ref="char:EOLhyphen"/>ly by the fifth Act of the ſecond Seſſion of this current Parliament, all unwarrantable meetings and Con<g ref="char:EOLhyphen"/>venticles either in houſes or in the fields, upon pretence of Religion and religious exerciſes, are prohibited and diſcharged, under certain great pains and penalties: which Act hitherto hath not received that obedience which was due thereunto; In regard the Lords of Our Privy Councill, the Sheriffes of Shires, and o<g ref="char:EOLhyphen"/>ther Judges to whom the execution thereof is committed, have not had that information from the Heri<g ref="char:EOLhyphen"/>tors, in whoſe bounds theſe Conventicles were keeped, and others; which was neceſſary, that the perſons guilty might be proceeded againſt according to Law: And ſeing we are fully reſolved to uſe all poſſible means for making the ſaid Act effectuall, being of great concernment to Religion, and the peace of this Church and Kingdome: And it being the duty of all our good Subjects not only to give obedience to Our Laws, by their own peaceable and orderly deportment; But likewiſe in theſe places where they have power and intereſt, to uſe their endeavoures for preventing and ſuppreſſing ſuch unwarrantable and diſorderly practices, as Conventicles are, being ſo farr contrair to Law, and deſtructive of the publick peace: And in order thereto, to give timous notice of any ſuch Meetings keeped within their bounds when the ſame comes to their knowledge. OUR Will is herefore, and We charge you ſtraitly and command, that in continent theſe Our Let<g ref="char:EOLhyphen"/>ters ſeen, ye paſſe, and in Our Name and Authority command and charge all Heritors, Liferenters and propper Wodſetters of Lands in this Kingdome to be carefull, that no houſe or field Conventicle, upon pret<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e of, or for Religious exerciſe or worſhip, be keeped within the bounds of the reſpective Lands belonging to them: and in caſe any ſhall be keeped in any part of their Lands, ſo ſoon as they ſhall have notice thereof, that they immediatly give information of the ſame, of the perſons preſent thereat, and other circumſtances thereof ſua farr as conſiſts in their knowledge, to one of Our Privy Councellors, or to the Sheriffe of the Shire, Stewart of the Stewartrie, Lord or Baillie of the Regality or Royalty, or their Deputes within whoſe juriſdiction the Lands or Houſes, where the Conventicle was keeped, do ly certify<g ref="char:EOLhyphen"/>ing ſuch Heritors, and others foreſaids, who ſhall know of any Conventicles keeped upon any part of their Lands, or in any Houſes there<g ref="char:EOLhyphen"/>intill, and ſhall not diſcover the ſame, and what they know thereof, to the Sheriffes and other Magiſtrates aforeſaids, or their Deputes, with<g ref="char:EOLhyphen"/>in the ſpace of three dayes after the ſame comes to their knowledge, that they ſhall be fyned for each Conventicle, not delated by them, in the fourt part of the yearly valued rent of the whole Lands belonging to them in Heritage, Liferent or propper Wodſet, within the Shire where the Conventicle ſhall be keeped, and we do hereby ſtrictly require the Sheriffes of Sheriffdomes, Stewarts of Stewartries, Lords and Baillies of Regalities or Royalties and their Deputes, upon delation made of Conventicles by the Heritors, or information given by any other perſons thereanent, to proceed to the tryall thereof, and to put the foreſaid Act of Parliament to due and vigorous execution. And We do hereby Authorize and require the Sheriffs and other Magiſtrates foreſaids and their Deputes, to call before them ſuch Heritors, Liferenters and propper Wodſeters, who ſhall know of any Conventicles keeped in their Lands, and ſhall not diſcover the ſame, within the ſpace foreſaid, and (their knowledge thereof being proven, either by their own oaths, or other Legall probation,) to inflict upon them the foreſaid fyne, whereof one third part, to be applyed for the uſe of the ſaids Judges; another third part to the perſon who ſhall give in<g ref="char:EOLhyphen"/>formation concerning theſe Heritors, and a third part thereof to be uplifted for Our uſe: And it is hereby declared, that if the ſaids Sheriffs and other Judges foreſaids, and their Deputes ſhall be remiſs and negligent in performance of their dutie in the premiſes, they ſhall be called before Our Privy Councill, and ſeverely puniſhed. And it is hereby declared, that as for any Conventicles that ſhall happen to be keeped within Burghs Royall, the Magiſtrates of the Burghs ſhall be lyable to ſuch fynes for every ſuch Conventicle as Our Councill ſhall think fit to impoſe, and that the Maſter or Miſtris of the houſe where the Conventicle ſhall be keeped, and the perſons preſent there<g ref="char:EOLhyphen"/>at, ſhall relieve the Magiſtrates, as Our Councill ſhall order the ſame, conform to the foreſaid fifth Act of the ſecond Seſſion of this preſent Parliament, intituled, Act againſt Conventicles: And We ordain theſe preſents to be Printed and publiſhed at the Market Croſs of <hi>Edin<g ref="char:EOLhyphen"/>burgh,</hi> and at the Market Croſſes of the head Burghs, of the ſeverall Shires, and that likewiſe the Shireffs and other Magiſtrates foreſaids, and their Deputes cauſe intimate the ſame at the ſeverall Paroch Churches within their reſpective Juriſdictions, that none pretend ignorance: The which to do we commit to you conjunctly and ſeverally Our full power, be thir Our letters, delivering them be you duely execute and indorſat again to the Bearer.</p>
+            <closer>
+               <dateline>Given under Our Signet at <hi>EDINB<g ref="char:V">Ʋ</g>RGH,</hi> 
+                  <date>the ſecond day of <hi>Aprill,</hi> and of Our Reigne the twentie fifth Year, 1673.</date>
+               </dateline>
+               <signed>
+                  <hi>Al. Gibſon, Cl.</hi> S<hi rend="sup">ti</hi> Concilij.</signed>
+            </closer>
+            <closer>GOD ſave the KING.</closer>
+         </div>
+      </body>
+   </text>
+</TEI>
